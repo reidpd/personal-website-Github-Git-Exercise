@@ -1,0 +1,20 @@
+span {
+  display: inline-block;
+}
+
+h1 {
+  align-content: center;
+  color: green;
+}
+
+.anchor_1 {
+  border: 2px solid red;
+}
+
+.anchor_2 {
+  border: 2px solid blue;
+}
+
+#principal {
+  max-width: 300px;
+}
